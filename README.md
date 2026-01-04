@@ -97,6 +97,4 @@ La maqueta estará en el directorio raiz del repositorio de la práctica y se ll
 
 Para las actividades 2,3 y 4 se creará un archivo index.html y estilos.css, en el directorio raiz del repositorio de la práctica.
 
-La fecha de entrega de la práctica es el 26 de enero a las 23:55h
-
-Una vez entregada la práctica se generará un issue para avisar de la entrega de la práctica.
+Una vez entregada la práctica se generará un issue con mi nombre @albertofuentes74 para avisar de la entrega de la práctica.
